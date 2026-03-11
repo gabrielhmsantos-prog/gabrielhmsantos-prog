@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Gabriel 
 
 🎓 Estudante da Aprendizagem Industrial  Programação de sistemas da informação  
- Estudante da Aprendizagem Industrial elétrica Industrial  
- Estudante da Aprendizagem Industrial Mecânica e MetalMecânica  
+🎓 Estudante da Aprendizagem Industrial elétrica Industrial  
+🎓 Estudante da Aprendizagem Industrial Mecânica e MetalMecânica  
 💻 Interessado em tecnologia, programação e inovação , curiosidades gerais  
 
 ---
