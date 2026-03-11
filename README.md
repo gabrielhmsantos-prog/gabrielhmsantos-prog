@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Olá, eu sou Gabriel 
 
-<!--
-**gabrielhmsantos-prog/gabrielhmsantos-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante da Aprendizagem Industrial  Programação de sistemas da informação
+ Estudante da Aprendizagem Industrial elétrica Industrial
+ Estudante da Aprendizagem Industrial Mecânica e MetalMecânica
+💻 Interessado em tecnologia, programação e inovação , curiosidades gerais
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+
+Sou estudante da área de tecnologia e estou aprendendo conceitos de programação, desenvolvimento web e ferramentas digitais.  
+Meu objetivo é ser corretor de imóveis,faço curso
+---
+
+## 🛠 Tecnologias que estou aprendendo
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 📚 O que estou estudando
+
+🧠 Lógica de Programação  
+🐍 Programação em Python  
+🌐 Desenvolvimento Web  
+📊 Ferramentas Digitais 
+🏢 transações imobiliárias
+
+---
+
+## 🚀 Projetos
+
+Aqui estão alguns projetos que desenvolvi durante meus estudos:
+
+📌 Projeto 1 – Grand prix automação de processos  
+📌 Projeto 2 – Apresentação de usina hidroelétrica  
+📌 Projeto 3 – Apresentação de torno CNC  
+
+---
